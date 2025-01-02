@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank Accounts Service related Prod APIs"
   contactDetails:
     name: "Srikanth - Product Owner"
-    email: "srikanth@gmail.com"
+    email: "{cipher}b4f7040b2b2874cf43bc911aa8424512f2a67e836eed81b082bb44f5d33be898911a19c1518db239fb2cda486164db07"
   onCallSupport:
     91-9876787656
     91-9787654567
